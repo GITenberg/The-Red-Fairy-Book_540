@@ -1,0 +1,39 @@
+_repo: The-Red-Fairy-Book_540
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Folklore'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: The twelve dancing princesses -- The princess Mayblossom -- Soria
+  Moria Castle -- The death of Koschei the Deathless -- The black thief and knight
+  of the glen -- The master thief -- Brother and sister -- Princess Rosette -- The
+  enchanted pig -- The Norka -- The wonderful birch -- Jack and the beanstalk -- The
+  little good mouse -- Graciosa and Percinet -- The three princesses of Whiteland
+  -- The voice of death -- The six sillies -- Kari Woodengown -- Drakestail -- The
+  ratcatcher -- The true history of Little Golden-hood -- The golden branch -- The
+  three dwarfs -- Dapplegrim -- The enchanted canary -- The twelve brothers -- Rapunzel
+  -- The nettle spinner -- Farmer Weatherbeard -- Mother Holle -- Minnikin -- Bushy
+  bride -- Snowdrop -- The golden goose -- The seven foals -- The marvelous musician
+  -- The story of Sigurd.
+title: The Red Fairy Book
+url: http://www.gutenberg.org/ebooks/540
